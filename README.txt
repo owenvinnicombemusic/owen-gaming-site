@@ -1,0 +1,1 @@
+OV Games portfolio with GravitasQ certificate. Upload all files in this ZIP (not the ZIP itself) to the root of the existing GitHub Pages repository. Keep GitHub Pages custom domain gaming.owenvinnicombemusic.com.
